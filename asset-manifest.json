@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imsts-app/static/css/main.073c9b0a.css",
+    "main.js": "/imsts-app/static/js/main.80ae3b2e.js",
+    "static/js/787.e7f67906.chunk.js": "/imsts-app/static/js/787.e7f67906.chunk.js",
+    "static/media/logo.svg": "/imsts-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imsts-app/index.html",
+    "main.073c9b0a.css.map": "/imsts-app/static/css/main.073c9b0a.css.map",
+    "main.80ae3b2e.js.map": "/imsts-app/static/js/main.80ae3b2e.js.map",
+    "787.e7f67906.chunk.js.map": "/imsts-app/static/js/787.e7f67906.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.80ae3b2e.js"
+  ]
+}
